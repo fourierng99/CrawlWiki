@@ -66,6 +66,6 @@ public class App extends Application {
 		//Displaying the contents of the stage
 		stage.show();
 		
-		System.out.print("hung");
+		System.out.print("Hello Me");
 	}
 }
